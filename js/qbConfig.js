@@ -12,9 +12,9 @@
 var config = {
   version: '2.1.2',
   creds: {
-    appId: '',
-    authKey: '',
-    authSecret: ''
+    appId: '41264',
+    authKey: '6PyvLOU9bTEm-HX',
+    authSecret: 'WsKLGjt7z9xATg9'
   },
   endpoints: {
     api: 'api.quickblox.com',
